@@ -6,12 +6,12 @@ This hotel network uses VLANs to separate departments across four floors, ensuri
 ----
 ## ScreenShot
 
-![](Screenshot\All.png)
+![](/Screenshot/All.png)
 
 ----
 ## 1st Floor: Reception, Security, and Guest Wi-Fi
 
-![1st Floor Network Screenshot](Screenshot\Floor1-img.png)
+![1st Floor Network Screenshot](/Screenshot/Floor1-img.png)
 
 - **VLAN 10: Reception**
   - Manages guest check-ins, room booking systems, and inquiries.
@@ -27,7 +27,7 @@ This hotel network uses VLANs to separate departments across four floors, ensuri
 
 ## 2nd Floor: HR, Finance, and IT
 
-![2nd Floor Network Screenshot](Screenshot\Floor2-img.png)
+![2nd Floor Network Screenshot](/Screenshot/Floor2-img.png)
 
 - **VLAN 40: HR**
   - Manages employee records, recruitment, and payroll.
@@ -43,7 +43,7 @@ This hotel network uses VLANs to separate departments across four floors, ensuri
 
 ## 3rd Floor: Housekeeping, Room Service, and Inventory
 
-![3rd Floor Network Screenshot](Screenshot\Floor3-img.png)
+![3rd Floor Network Screenshot](/Screenshot/Floor3-img.png)
 
 - **VLAN 70: Housekeeping**
   - Manages cleaning schedules, room assignments, and staff communication.
@@ -59,7 +59,7 @@ This hotel network uses VLANs to separate departments across four floors, ensuri
 
 ## 4th Floor: Conference Rooms, Event Management, and Executive Offices
 
-![4th Floor Network Screenshot](Screenshot\Floor4-img.png)
+![4th Floor Network Screenshot](/Screenshot/Floor4-img.png)
 
 - **VLAN 100: Conference Rooms**
   - Smart projectors, video conferencing, and room booking systems.
